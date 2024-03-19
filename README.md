@@ -2,7 +2,7 @@
 
 This repository is for basic, intermediate and advanced SQL projects. I've used advanced concepts like window functions, CTEs and subqueries too. 
 
-The DB is PostgreSQL version 16 and all queries are performed using DBeaver Community Edition tool. 
+The DB is **PostgreSQL** version 16 and all queries are performed using DBeaver Community Edition tool. 
 
 # Advantages of PostgreSQL:
 
@@ -35,7 +35,7 @@ I've realized that cleaning starts from CSV(Excel) itself. Few learnings:
 (4) In case of large CSVs, **ALWAYS** perform **Sampling**. 
 
 # Modules
-(1) Olympics Data Analysis: 
+**(1) Olympics Data Analysis: **
 
 <img src="/Olympics Data Analysis/assets/2.png" alt=""/>
 
