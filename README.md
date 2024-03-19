@@ -36,11 +36,7 @@ I've realized that cleaning starts from CSV(Excel) itself. Few learnings:
 
 # Modules
 
-(1) **Olympics Data Analysis: **
+(1) Olympics Data Analysis
+(2) Study Performance Analysis
 
-<img src="/Olympics Data Analysis/assets/Master.png" alt=""/>
-
-<img src="/Olympics Data Analysis/assets/Events.png" alt=""/>
-
-<img src="/Olympics Data Analysis/assets/0.png" alt=""/>
-
+You can find details of each module in respective folder.
