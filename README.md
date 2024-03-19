@@ -35,19 +35,12 @@ I've realized that cleaning starts from CSV(Excel) itself. Few learnings:
 (4) In case of large CSVs, **ALWAYS** perform **Sampling**. 
 
 # Modules
-**(1) Olympics Data Analysis: **
 
-<img src="/Olympics Data Analysis/assets/2.png" alt=""/>
+(1) **Olympics Data Analysis: **
 
-<img src="/Olympics Data Analysis/assets/1.png" alt=""/>
+<img src="/Olympics Data Analysis/assets/Master.png" alt=""/>
+
+<img src="/Olympics Data Analysis/assets/Events.png" alt=""/>
 
 <img src="/Olympics Data Analysis/assets/0.png" alt=""/>
-
-<img src="/assets/1.png" alt=""/>
-
-<img src="/assets/2.png" alt=""/>
-
-<img src="/assets/3.png" alt=""/>
-
-<img src="/assets/4.png" alt=""/>
 
