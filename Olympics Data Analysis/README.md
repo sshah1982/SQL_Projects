@@ -1,6 +1,6 @@
 # Olympics Data Analysis
 
-This dataset was taken in form of CSVs. It delineates Olympics performance of various contries and athletes and the statistics.
+This dataset was taken in form of CSVs. It delineates Olympics performance of various countries and athletes and the statistics.
 
 <img src="/Olympics Data Analysis/assets/Master.png" alt=""/>
 
